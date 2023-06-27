@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e6b1039-46fd-4b6b-bef0-671cc3c8be38" name="Changes" comment="index.html pronto" />
+    <list default="true" id="4e6b1039-46fd-4b6b-bef0-671cc3c8be38" name="Changes" comment="index.html, local.html e video.html prontos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/desktop.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/desktop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.html" beforeDir="false" afterPath="$PROJECT_DIR$/local.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/video.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +48,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687784445786</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="index.html pronto">
+      <created>1687786975702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687786975702</updated>
+    </task>
+    <task id="LOCAL-00003" summary="index.html, local.html e video.html prontos">
+      <created>1687790140974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687790140974</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index.html pronto" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.html pronto" />
+    <MESSAGE value="index.html, local.html e video.html prontos" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html, local.html e video.html prontos" />
   </component>
 </project>
